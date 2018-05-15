@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "snake3D",
+"dataUrl": "growing_redworm.data.unityweb",
+"asmCodeUrl": "growing_redworm.asm.code.unityweb",
+"asmMemoryUrl": "growing_redworm.asm.memory.unityweb",
+"asmFrameworkUrl": "growing_redworm.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
